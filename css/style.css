@@ -38,7 +38,7 @@ body{
     background-color: red;
     border-radius: 15px;
     transition: .5s ease;
-    transform-origin: left bottom; 
+    transform-origin: left bottom;
 }
 
 .heart:hover:after{

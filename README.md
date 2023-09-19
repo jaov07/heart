@@ -1,1 +1,1 @@
-Esse é um projeto teste na qual eu estou aprendendo a desenhar em CSS e usar o GitHub
+desenhei esse coração usando Html5 e CSS3 aproveitando para aprender um pouco sobre git e GitHub
